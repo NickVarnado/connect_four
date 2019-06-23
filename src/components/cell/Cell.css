@@ -1,0 +1,15 @@
+.cell-outside {
+  display: flex;
+  flex: 1;
+  background: #565656;
+  width: 100px;
+  height: 100px;
+}
+.cell-outside .cell-inside {
+  background: #ffffff;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=Cell.css.map */
